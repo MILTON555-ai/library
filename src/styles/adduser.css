@@ -1,0 +1,33 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 450px;
+  height: 500px;
+  box-shadow: 0px 0px 2px 2px rgb(223, 223, 223);
+  border-radius: 10px;
+  margin: 70px auto;
+  padding: 60px 40px 0px 30px;
+}
+label{
+    width: 100px;
+    margin-top: 15px;
+    
+}
+input{
+    width: 450px;
+    height: 25px;
+    border: 2px solid rgb(149, 177, 227);
+    background-color: rgba(234, 234, 234, 0.596);
+    border-radius: 5px;
+    padding-left: 10px;
+    /* border: none; */
+    outline: none;
+}
+
+.btn{
+width: 100px;
+height: 35px;
+border: 2px solid cornflowerblue;
+border-radius: 4px;
+
+}

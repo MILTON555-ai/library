@@ -1,0 +1,43 @@
+
+.home{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.316),rgba(0, 0, 0, 0.315)), url("../image/home-background.jpg");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+   
+  
+}
+.login{
+    background-image: linear-gradient(to bottom right,rgba(86, 69, 38, 0.395),rgba(255, 255, 255, 0.096),rgba(63, 54, 38, 0.351));
+    
+    border-radius: 10px;
+    height: 550px;
+    width: 450px;
+    position: relative;
+    top: 100px;
+    left: 550px;
+    padding-top: 20px;
+    
+    
+}
+.login h1{
+    color: rgb(245, 161, 52);
+    font-size: 3.5rem;
+    position: relative;
+    top: 20px;
+}
+.home-btn{
+    /* padding-top: 50px; */
+    position: relative;
+    top: 45px;
+}
+.home-btn button{
+    width:50%;
+    height: 55px;
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+    border: 2px solid rgb(255, 115, 0);
+    border-radius: 50px;
+    
+        
+}

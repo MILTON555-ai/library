@@ -1,0 +1,46 @@
+.sidebar {
+    padding: 10px 0px 20px 0px;
+  background-color: cornflowerblue;
+  height: 100vh;
+  color: white;
+  text-align: left;
+  position: fixed;
+}
+
+.user {
+  display: flex;
+  border-bottom: 2px solid white;
+  padding-bottom: 20px;
+}
+
+.userName p {
+  margin: 0px;
+}
+
+.userName {
+  margin: 25px 20px;
+}
+
+.image {
+  margin: 10px 0px 0px 20px;
+}
+.image img {
+  width: 80px;
+}
+
+.menu{
+    padding-top: 20px;
+}
+li{
+  list-style: none;
+  
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0px 50px;
+  line-height: 3;
+}
+
+.link{
+  text-decoration: none;
+  color: white;
+}
